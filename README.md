@@ -50,7 +50,11 @@ Each LED remains ON for a predefined time before switching to the next, mimickin
 ---
 
 ## 🖼️ Project Preview
-*(Add circuit diagram or working model image here)*
 
-```md
-![Traffic Light Circuit](images/traffic_light.png)
+The following images show the working of the traffic light system at different stages:
+
+- **picture1.png** – Red light (STOP)  
+- **picture2.png** – Yellow light (READY)  
+- **picture3.png** – Green light (GO)  
+
+> These images are attached in the repository to demonstrate the real-time working of the project.
